@@ -1,5 +1,5 @@
 
-# Fake News Classification
+# Decoding Deception: A Fake News Classification Project
 
 ### Overview
 This repository contains the code and resources for a Fake News Classification project. The primary goal of this project is to develop and evaluate various machine-learning models for distinguishing between real and fake news articles.
