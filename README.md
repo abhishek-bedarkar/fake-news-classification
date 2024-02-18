@@ -41,8 +41,9 @@ Python (Pandas, NumPy, Scikit-learn), NLTK, TensorFlow
 ```
 pip install -r requirements.txt
 ```
-
-3. Run the Jupyter notebooks in the notebooks directory to reproduce the analysis and results.
+3. Download the dataset and create a required directory structure
+   
+4. Run the Jupyter notebooks in the notebooks directory to reproduce the analysis and results.
 
 
 ## Accuracy Results
